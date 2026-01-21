@@ -1,0 +1,19 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #3a7bd5, #3a6073);
+  color: #333;
+}
+
+.card {
+  border: none;
+  border-radius: 15px;
+}
+
+.btn-primary {
+  background-color: #3a7bd5;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #2d5fa0;
+}
